@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: 'Stellab pilot deposition: end-to-end ORPM smoke test'
+authors:
+- family-names: Zanardo
+  given-names: Enrico
+  affiliation: Stellab
+date-released: 2026-05-04
+version: 1.0.0
+abstract: End-to-end smoke test of the ORPM publishing pipeline against the Zenodo sandbox plus the GitHub stellab_research mirror. This deposition exercises validation, deposition creation, file upload, community attachment, DOI minting, CITATION.cff regeneration, and the GitHub mirror push under the institutional Stellab community.
+keywords:
+- orpm
+- stellab
+- smoke-test
+license: CC-BY-4.0
+identifiers:
+- type: doi
+  value: 10.5072/zenodo.495609
+  description: Zenodo deposition DOI
+doi: 10.5072/zenodo.495609
+preferred-citation:
+  cff-version: 1.2.0
+  message: If you use this work, please cite it as below.
+  title: 'Stellab pilot deposition: end-to-end ORPM smoke test'
+  authors:
+  - family-names: Zanardo
+    given-names: Enrico
+    affiliation: Stellab
+  date-released: 2026-05-04
+  version: 1.0.0
+  abstract: End-to-end smoke test of the ORPM publishing pipeline against the Zenodo sandbox plus the GitHub stellab_research mirror. This deposition exercises validation, deposition creation, file upload, community attachment, DOI minting, CITATION.cff regeneration, and the GitHub mirror push under the institutional Stellab community.
+  keywords:
+  - orpm
+  - stellab
+  - smoke-test
+  license: CC-BY-4.0
+  identifiers:
+  - type: doi
+    value: 10.5072/zenodo.495609
+    description: Zenodo deposition DOI
+  doi: 10.5072/zenodo.495609
