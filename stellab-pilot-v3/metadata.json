@@ -1,0 +1,27 @@
+{
+  "title": "Stellab pilot deposition: end-to-end ORPM smoke test",
+  "abstract": "End-to-end smoke test of the ORPM publishing pipeline against the Zenodo sandbox plus the GitHub stellab_research mirror. This deposition exercises validation, deposition creation, file upload, community attachment, DOI minting, CITATION.cff regeneration, and the GitHub mirror push under the institutional Stellab community.",
+  "authors": [
+    {
+      "given": "Enrico",
+      "family": "Zanardo",
+      "affiliation": "Stellab"
+    }
+  ],
+  "keywords": [
+    "orpm",
+    "stellab",
+    "smoke-test"
+  ],
+  "language": "en",
+  "publication_date": "2026-05-04",
+  "resource_type": "thesis",
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "related_identifiers": [],
+  "funding": [],
+  "institution": {
+    "name": "Stellab - Research Laboratory",
+    "country": "IT"
+  }
+}
