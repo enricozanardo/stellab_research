@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: Thesis Sample 3
+authors:
+- family-names: Zanardo
+  given-names: Enrico
+  orcid: https://orcid.org/0000-0003-2552-4559
+  affiliation: Signum Magnum College
+date-released: 2026-05-06
+version: 1.0.0
+abstract: Convallis posuere mi ornare aliquam ut at, hendrerit sollicitudin faucibus montes in, accumsan dictumst est purus lectus primis, arcu diam velit sociosqu. Dui consequat leo libero mus eleifend dis malesuada feugiat rhoncus ut taciti hendrerit phasellus, sagittis nunc per aliquam nibh pharetra class blandit vel nam at. Mi fringilla cubilia ridiculus augue magna inceptos, morbi ante erat venenatis mauris donec ut, aliquet imperdiet tempor blandit potenti. Taciti fusce fringilla nibh euismod ridiculus pellentesque nulla, class a semper himenaeos convallis dis consequat, rhoncus sociis vel velit libero orci. Integer in mus habitasse porta sodales viverra neque cras cum, vestibulum dapibus dui risus diam lacus phasellus litora rutrum, massa praesent maecenas leo tortor nullam semper euismod. Felis habitant in purus quam etiam maecenas, mus litora molestie ad. Luctus posuere orci fringilla ad ligula semper odio aptent, cubilia volutpat placerat iaculis mus risus class mauris ullamcorper, erat consequat vel nam sem dis egestas. Quisque mauris praesent suspendisse gravida porttitor fermentum, leo enim dictumst cubilia habitant, curae hac duis libero facilisis.
+license: CC-BY-4.0
+identifiers:
+- type: doi
+  value: 10.5072/zenodo.496255
+  description: Zenodo deposition DOI
+doi: 10.5072/zenodo.496255
+preferred-citation:
+  cff-version: 1.2.0
+  message: If you use this work, please cite it as below.
+  title: Thesis Sample 3
+  authors:
+  - family-names: Zanardo
+    given-names: Enrico
+    orcid: https://orcid.org/0000-0003-2552-4559
+    affiliation: Signum Magnum College
+  date-released: 2026-05-06
+  version: 1.0.0
+  abstract: Convallis posuere mi ornare aliquam ut at, hendrerit sollicitudin faucibus montes in, accumsan dictumst est purus lectus primis, arcu diam velit sociosqu. Dui consequat leo libero mus eleifend dis malesuada feugiat rhoncus ut taciti hendrerit phasellus, sagittis nunc per aliquam nibh pharetra class blandit vel nam at. Mi fringilla cubilia ridiculus augue magna inceptos, morbi ante erat venenatis mauris donec ut, aliquet imperdiet tempor blandit potenti. Taciti fusce fringilla nibh euismod ridiculus pellentesque nulla, class a semper himenaeos convallis dis consequat, rhoncus sociis vel velit libero orci. Integer in mus habitasse porta sodales viverra neque cras cum, vestibulum dapibus dui risus diam lacus phasellus litora rutrum, massa praesent maecenas leo tortor nullam semper euismod. Felis habitant in purus quam etiam maecenas, mus litora molestie ad. Luctus posuere orci fringilla ad ligula semper odio aptent, cubilia volutpat placerat iaculis mus risus class mauris ullamcorper, erat consequat vel nam sem dis egestas. Quisque mauris praesent suspendisse gravida porttitor fermentum, leo enim dictumst cubilia habitant, curae hac duis libero facilisis.
+  license: CC-BY-4.0
+  identifiers:
+  - type: doi
+    value: 10.5072/zenodo.496255
+    description: Zenodo deposition DOI
+  doi: 10.5072/zenodo.496255
