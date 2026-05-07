@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: Sample_Thesis_Windows
+authors:
+- family-names: Zanardo
+  given-names: Enrico
+  orcid: https://orcid.org/0000-0003-2552-4559
+  affiliation: Signum Magnum College
+date-released: 2026-05-07
+version: 1.0.0
+abstract: Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+license: CC-BY-4.0
+identifiers:
+- type: doi
+  value: 10.5072/zenodo.496852
+  description: Zenodo deposition DOI
+doi: 10.5072/zenodo.496852
+preferred-citation:
+  cff-version: 1.2.0
+  message: If you use this work, please cite it as below.
+  title: Sample_Thesis_Windows
+  authors:
+  - family-names: Zanardo
+    given-names: Enrico
+    orcid: https://orcid.org/0000-0003-2552-4559
+    affiliation: Signum Magnum College
+  date-released: 2026-05-07
+  version: 1.0.0
+  abstract: Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+  license: CC-BY-4.0
+  identifiers:
+  - type: doi
+    value: 10.5072/zenodo.496852
+    description: Zenodo deposition DOI
+  doi: 10.5072/zenodo.496852
