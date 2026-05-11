@@ -1,0 +1,22 @@
+{
+  "title": "Sample Thesis 1105",
+  "abstract": "Sample Thesis 1105 Sample Thesis 1105 Sample Thesis 1105  Sample Thesis 1105",
+  "authors": [
+    {
+      "given": "Enrico",
+      "family": "Zanardo",
+      "affiliation": "Signum Magnum College"
+    }
+  ],
+  "keywords": [],
+  "language": "en",
+  "publication_date": "2026-05-11",
+  "resource_type": "thesis",
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "related_identifiers": [],
+  "funding": [],
+  "institution": {
+    "name": "Signum Magnum College"
+  }
+}
