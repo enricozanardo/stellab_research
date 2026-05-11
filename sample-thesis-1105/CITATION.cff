@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: Sample Thesis 1105
+authors:
+- family-names: Zanardo
+  given-names: Enrico
+  affiliation: Signum Magnum College
+date-released: 2026-05-11
+version: 1.0.0
+abstract: Sample Thesis 1105 Sample Thesis 1105 Sample Thesis 1105  Sample Thesis 1105
+license: CC-BY-4.0
+identifiers:
+- type: doi
+  value: 10.5072/zenodo.497891
+  description: Zenodo deposition DOI
+doi: 10.5072/zenodo.497891
+preferred-citation:
+  cff-version: 1.2.0
+  message: If you use this work, please cite it as below.
+  title: Sample Thesis 1105
+  authors:
+  - family-names: Zanardo
+    given-names: Enrico
+    affiliation: Signum Magnum College
+  date-released: 2026-05-11
+  version: 1.0.0
+  abstract: Sample Thesis 1105 Sample Thesis 1105 Sample Thesis 1105  Sample Thesis 1105
+  license: CC-BY-4.0
+  identifiers:
+  - type: doi
+    value: 10.5072/zenodo.497891
+    description: Zenodo deposition DOI
+  doi: 10.5072/zenodo.497891
